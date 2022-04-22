@@ -1,0 +1,15 @@
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/bin/Debug/net6.0/Testing
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/bin/Debug/net6.0/Testing.deps.json
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/bin/Debug/net6.0/Testing.runtimeconfig.json
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/bin/Debug/net6.0/Testing.dll
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/bin/Debug/net6.0/Testing.pdb
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.csproj.AssemblyReference.cache
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.AssemblyInfoInputs.cache
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.AssemblyInfo.cs
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.csproj.CoreCompileInputs.cache
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.dll
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/refint/Testing.dll
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.pdb
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/Testing.genruntimeconfig.cache
+/home/timur/Desktop/C++/CompatabilityCheck/TestDir/obj/Debug/net6.0/ref/Testing.dll
